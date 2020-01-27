@@ -1,0 +1,152 @@
+@charset "UTF-8";
+
+.blackBox {
+	background-color: #1C2833;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	padding: 50px 150px 50px 150px;
+}
+
+.passageContainer1 {
+	color: #FFF8E1;
+	font-family: 'Montserrat', sans-serif;
+  text-align: left;
+	margin-left: auto;
+	width: 800px;
+}
+
+.img {
+	margin: auto;
+}
+
+.hr1 {
+	height: 2px;
+	margin: 20px 0 20px 0;
+	background-color: #FFF8E1;
+}
+
+h2 {
+	font-size: 50px;
+}
+
+.passageContainer1 p {
+	font-weight: 200;
+	line-height: 25px;
+	font-size: 16px;
+}
+
+.whiteBox {
+	background-color: #FFF8E1;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+	padding: 50px 150px 50px 150px;
+}
+
+.passageContainer2 {
+	color: #1B2631;
+	font-family: 'Montserrat', sans-serif;
+  text-align: center;
+	width: 800px;
+}
+
+.passageContainer2 p {
+	font-weight: 400;
+	line-height: 25px;
+	font-size: 16px;
+}
+
+.hr2 {
+	height: 2px;
+	margin: 20px 0 20px 0;
+	background-color: #1B2631;
+}
+
+.blackBox2 {
+	background-color: #1C2833;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	padding: 50px 150px 50px 150px;
+	align-items: stretch;
+}
+
+.passageContainer3 {
+	color: #FFF8E1;
+	font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+#WAM {
+	font-family: 'Barlow Condensed', sans-serif;
+	color: #1B2631;
+	font-size: 100px;
+	background-color: #FFF8E1;
+	padding: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: 600;
+	margin: 20px;
+}
+
+#WAM p {
+	margin: 0;
+}
+
+#valueContainer {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+.value {
+	border: solid 2px #FFF8E1;
+	width: 400px;
+	margin: 25px;
+	padding: 15px;
+}
+
+.value h3 {
+	font-family: 'Barlow Condensed', sans-serif;
+	font-weight: 500;
+	font-size: 35px;
+}
+
+.beerBox {
+	background: #201d1e;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: baseline;
+}
+
+.beerBox img {
+	width: 90%;
+}
+
+#ourBeers {
+	margin: 200px 50px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	width: 400px;
+	padding: 15px;
+	border: solid 8px #FFF8E1;
+	font-family: 'Montserrat', sans-serif;
+	color: #FFF8E1;
+}
+
+.beerContainer{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	color: #FFF8E1;
+	line-height: 40px;
+	font-size: 20px;
+	border-right: 3px solid #FFF8E1;
+}
