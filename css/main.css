@@ -13,8 +13,8 @@
 	color: #FFF8E1;
 	font-family: 'Montserrat', sans-serif;
   text-align: left;
-	margin-left: auto;
 	width: 800px;
+	margin-left: auto;
 }
 
 .img {
@@ -51,6 +51,7 @@ h2 {
 	font-family: 'Montserrat', sans-serif;
   text-align: center;
 	width: 800px;
+	margin: auto;
 }
 
 .passageContainer2 p {
